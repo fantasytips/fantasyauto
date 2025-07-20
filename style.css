@@ -17,51 +17,49 @@ body {
 header {
   background: #222;
   color: #fff;
-  padding: 20px 0;
+  padding: 15px 0;
 }
 
 header h1 {
   margin: 0;
-  text-align: center;
-  font-size: 28px;
+  padding-left: 10px;
 }
 
-nav {
-  text-align: center;
-  margin-top: 10px;
+nav ul {
+  list-style: none;
+  padding: 0;
 }
 
-nav a {
+nav ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+nav ul li a {
   color: #fff;
-  margin: 0 10px;
   text-decoration: none;
 }
 
-main h2 {
+h2 {
   margin-top: 20px;
-  color: #0056b3;
+  color: #222;
 }
 
-section {
+.match-list {
+  margin-top: 20px;
+}
+
+.match-card {
   background: #fff;
   padding: 15px;
-  margin: 15px 0;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-.btn {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 10px 20px;
-  background: #0056b3;
-  color: #fff;
-  text-decoration: none;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
   border-radius: 5px;
 }
 
-.btn:hover {
-  background: #003d80;
+.match-card h3 a {
+  color: #007BFF;
+  text-decoration: none;
 }
 
 footer {
