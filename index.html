@@ -36,7 +36,7 @@
             text-decoration: underline;
         }
         main {
-            max-width: 900px;
+            max-width: 1000px;
             margin: 30px auto;
             padding: 20px;
             background-color: #fff;
@@ -46,6 +46,31 @@
         h2 {
             color: #1a73e8;
             margin-top: 0;
+        }
+        .matches {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: flex-start;
+        }
+        .match-card {
+            flex: 1 1 300px;
+            background: #f0f8ff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+            transition: 0.3s;
+        }
+        .match-card:hover {
+            background: #e3f2fd;
+            box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+        }
+        .match-card a {
+            text-decoration: none;
+            color: #1a73e8;
+            font-weight: bold;
+            font-size: 1.1rem;
         }
         footer {
             background-color: #1a73e8;
@@ -67,28 +92,23 @@
 
     <header>
         <h1>Fantasy Match Center</h1>
-        <p>Your Cricket Insights, Stats & Fantasy Tips Center</p>
+        <p>Your Cricket Insights, Stats & Fantasy Tips Hub</p>
     </header>
 
     <nav>
         <a href="/">Home</a>
-        <a href="/zim-vs-sa/">ZIM vs SA Match</a>
         <a href="https://fantasypredictionforfree.com" target="_blank">Main Website</a>
     </nav>
 
     <main>
-        <h2>Welcome to Fantasy Match Center</h2>
-        <p>
-            We bring you detailed match previews, pitch reports, player stats, and fantasy cricket tips 
-            for all major international and league matches.
-        </p>
-        <p>
-            Each page here contains in-depth stats and analysis to help you understand team performance, 
-            venue history, and fantasy tips – updated before every important match.
-        </p>
-        <p>
-            Check out the latest match update: <a href="/zim-vs-sa/">ZIM vs SA 4th T20I</a>.
-        </p>
+        <h2>Latest Matches</h2>
+        <div class="matches">
+            <!-- Match 1 -->
+            <div class="match-card">
+                <a href="/zim-vs-sa/">ZIM vs SA - 4th T20I (20 July 2025)</a>
+            </div>
+            <!-- Future matches will be added here -->
+        </div>
     </main>
 
     <footer>
