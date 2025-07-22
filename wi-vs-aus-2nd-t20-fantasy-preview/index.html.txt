@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WI vs AUS 2nd T20I - Fantasy Cricket Stats & Prediction</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>Fantasy Match Center</h1>
+    <nav>
+      <a href="/">Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="match-header">
+      <h2>WI vs AUS - 2nd T20I</h2>
+      <p><strong>Date:</strong> 23 July 2025 | <strong>Time:</strong> 5:30 AM</p>
+      <p><strong>Venue:</strong> Sabina Park, Kingston, Jamaica</p>
+    </section>
+
+    <section class="pitch-report">
+      <h3>Pitch Report</h3>
+      <p>
+        Jamaica pitch is batsman-friendly with good pace and bounce, ideal for stroke play. Pacers get early seam and swing with the new ball; spinners gain grip as the pitch wears. Average 1st innings T20I score: ~170-180.
+      </p>
+    </section>
+
+    <section class="player-stats">
+      <h3>Key Player Stats at Venue</h3>
+      <p>
+        Brandon King – 5 M • 230 R • 46 Avg <br>
+       	Shai Hope – 1 M • 55 R <br>
+	Shimron Hetmyer – 4 M • 54 R • 18 Avg <br>
+	Evin Lewis – 1 M • 127 R <br>
+	Cameron Green – 1 M • 51 R <br>
+	Mitchell Owen – 1 M • 50 R • 1 W <br>
+	Roston Chase – 3 M • 159 R • 2 W <br>
+	Gudakesh Motie – 4 M • 10 W <br>
+	Matthew Forde – 1 M • 3 W <br>
+	Akeal Hosein – 5 M • 4 W <br>
+	Ben Dwarshuis – 1 M • 4 W <br>
+      </p>
+    </section>
+
+    <section class="Team-analysis">
+      <h3>Team Insights</h3>
+      <p>
+        <strong>West Indies Strengths:</strong> Explosive batting (King, Russell), strong pace (Joseph, Hosein), home advantage.  
+        <strong>Weaknesses:</strong> Inconsistent form (1/5 wins), middle-order fragility.  
+      </p>
+      <p>
+        <strong>Australia Strengths:</strong> Deep batting (Marsh, Maxwell), potent spin (Zampa), excellent form (4/5 wins).  
+        <strong>Weaknesses:</strong> Limited venue experience, reliance on top order.
+      </p>
+    </section>
+
+    <section class="read-more">
+      <a href="https://fantasypredictionforfree.com/cricket-news/wi-vs-aus-player-battle-pitch-report-playing11-west-indies-vs-australia-player-stats-aus-vs-wi-2nd-t20-prediction/07/2025/" target="_blank">
+        Read Full Match Preview
+      </a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Fantasy Match Center | Powered by <a href="https://fantasypredictionforfree.com" target="_blank">Fantasy Prediction For Free</a></p>
+  </footer>
+</body>
+</html>
