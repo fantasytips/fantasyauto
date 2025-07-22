@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EN-W vs IN-W 3rd ODI - Fantasy Cricket Stats & Prediction</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>Fantasy Match Center</h1>
+    <nav>
+      <a href="/">Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="match-header">
+      <h2>EN-W vs IN-W - 3rd ODI</h2>
+      <p><strong>Date:</strong> 22 July 2025 | <strong>Time:</strong> 5:30 PM</p>
+      <p><strong>Venue:</strong> Riverside Ground, Chester-le-Street</p>
+    </section>
+
+    <section class="pitch-report">
+      <h3>Pitch Report</h3>
+      <p>
+        Chester-le-Street Pitch is slightly bowler-friendly with good pace and bounce. Pacers get swing and seam early due to grass cover; spinners find turn in middle overs. Average 1st innings ODI score: ~240.
+      </p>
+    </section>
+
+    <section class="player-stats">
+      <h3>Key Player Stats at Venue</h3>
+      <p>
+        Tammy Beaumont : 2 M • 108 R • 76 HS <br>
+	Maia Bouchier : 2 M • 84 R • 67 HS <br>
+	Emma Lamb : 1 M • 27 R • 27 HS <br>
+	Charlie Dean : 1 M • 4 W <br>
+	Lauren Filer : 2 M • 4 W <br>
+	Sophie Ecclestone : 1 M • 2 W <br>
+      </p>
+    </section>
+
+    <section class="Team-analysis">
+      <h3>Team Insights</h3>
+      <p>
+        <strong>England Women Strengths:</strong> Strong batting (Beaumont, Sciver-Brunt), potent spin (Ecclestone, Dean), home advantage.  
+        <strong>Weaknesses:</strong> Inconsistent middle order, rain-affected strategy concerns.  
+      </p>
+      <p>
+        <strong>India Women Strengths:</strong> Explosive batting (Mandhana, Harmanpreet), all-round depth (Deepti), good form (3/5 wins).  
+        <strong>Weaknesses:</strong> Limited venue experience, seam vulnerability early.
+      </p>
+    </section>
+
+    <section class="read-more">
+      <a href="https://fantasypredictionforfree.com/cricket-news/en-w-vs-in-w-player-battle-pitch-report-playing11-england-women-vs-india-women-player-stats-inw-vs-enw-3rd-odi-prediction/07/2025/" target="_blank">
+        Read Full Match Preview
+      </a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Fantasy Match Center | Powered by <a href="https://fantasypredictionforfree.com" target="_blank">Fantasy Prediction For Free</a></p>
+  </footer>
+</body>
+</html>
