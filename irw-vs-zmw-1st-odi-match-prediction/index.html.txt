@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IR-W vs ZM-W 1st ODI - Fantasy Cricket Stats & Prediction</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>Fantasy Match Center</h1>
+    <nav>
+      <a href="/">Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="match-header">
+      <h2>IR-W vs ZM-W 1st ODI</h2>
+      <p><strong>Date:</strong> 26 July 2025 | <strong>Time:</strong> 3:15 PM</p>
+      <p><strong>Venue:</strong> Civil Service Cricket Club, Belfast</p>
+    </section>
+
+    <section class="pitch-report">
+      <h3>Pitch Report</h3>
+      <p>
+        The Civil Service Cricket Club pitch in Belfast is balanced, offering assistance to both batters and bowlers. Early seam movement aids pacers, while the surface becomes batting-friendly as the game progresses. Spinners may find some grip in the middle overs. Average 1st innings ODI score: ~227.
+      </p>
+    </section>
+
+    <section class="player-stats">
+      <h3>Key Player Stats at Venue</h3>
+      <p>
+	Gaby Lewis – 8 M • 474 R • 59 Avg <br>
+	Laura Delany – 5 M • 82 R • 27 Avg • 2 W <br>
+	Orla Prendergast – 4 M • 125 R • 26 Avg • 5 W <br>
+	Leah Paul – 7 M • 98 R • 20 Avg • 3 W <br>
+	Chipo Mugeri Tiripano – 2 M • 53 R <br>
+	Kelis Ndhlovu – 2 M • 66 R <br>
+	Arlene Kelly – 6 M • 6 W <br>
+	Jane Maguire – 6 M • 3 W <br>
+	Cara Murray – 4 M • 7 W <br>
+      </p>
+    </section>
+
+    <section class="Team-analysis">
+      <h3>Team Insights</h3>
+      <p>
+        <strong>Ireland Women Strengths:</strong> Dominant batting (Hunter, Lewis), versatile all-rounders (Delany, Prendergast), excellent form (5/5 wins).  
+        <strong>Weaknesses:</strong> Middle-order inconsistency, reliance on top order.  
+      </p>
+      <p>
+        <strong>Zimbabwe Women Strengths:</strong> Resilient batting (Ndhlovu, Mugeri-Tiripano), emerging bowlers (Sibanda).  
+        <strong>Weaknesses:</strong> Poor form (2/5 wins), weak record vs IR-W.
+      </p>
+    </section>
+
+    <section class="read-more">
+      <a href="https://fantasypredictionforfree.com/cricket-news/ir-w-vs-zm-w-player-battle-player-stats-playing11-ireland-women-vs-zimbabwe-women-pitch-report-ire-w-vs-zim-w-1st-odi-prediction/07/2025/" target="_blank">
+        Read Full Match Preview
+      </a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Fantasy Match Center | Powered by <a href="https://fantasypredictionforfree.com" target="_blank">Fantasy Prediction For Free</a></p>
+  </footer>
+</body>
+</html>

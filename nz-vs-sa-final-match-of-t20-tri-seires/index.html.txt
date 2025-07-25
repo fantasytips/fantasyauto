@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NZ vs SA Final - Fantasy Cricket Stats & Prediction</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>Fantasy Match Center</h1>
+    <nav>
+      <a href="/">Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="match-header">
+      <h2>NZ vs SA - Final</h2>
+      <p><strong>Date:</strong> 26 July 2025 | <strong>Time:</strong> 4:30 PM</p>
+      <p><strong>Venue:</strong> Harare Sports Club, Harare</p>
+    </section>
+
+    <section class="pitch-report">
+      <h3>Pitch Report</h3>
+      <p>
+        Harare pitch offers balance conditions with good pace and bounce, ideal for aggressive stroke play. Pacers get early swing and seam; spinners find grip in middle overs under lights. Average 1st innings T20I score: ~154
+      </p>
+    </section>
+
+    <section class="player-stats">
+      <h3>Key Player Stats at Venue</h3>
+      <p>
+	Tim Seifert – 4 M • 166 R • 75 Avg <br>
+	Rubin Hermann – 4 M • 119 R • 29 Avg <br>
+	Dewald Brevis – 4 M • 102 R • 34 Avg <br>
+	Rachin Ravindra – 3 M • 96 R • 32 Avg <br>
+	Rassie van der Dussen – 4 M • 88 R • 29 Avg <br>
+	Devon Conway – 3 M • 87 R • 43 Avg <br>
+	Tim Robinson – 2 M • 85 R • 85 Avg <br>
+	Reeza Hendricks – 4 M • 74 Avg • 18 Avg <br>
+	George Linde 4 M • 56 R • 56 Avg • 3 W <br>
+	Daryl Mitchell – 3 M • 51 R • 51 Avg <br>
+	Matt Henry – 3 M • 8 W <br>
+	Adam Milne – 3 M • 5 W <br>
+	Jacob Duffy – 3 M • 5 W <br>
+	Mitchell Santner – 3 M • 4 W <br>
+	Ish Sodhi – 3 M • 7 W <br>
+	Lungi Ngidi – 3 M • 3 W <br>
+      </p>
+    </section>
+
+    <section class="Team-analysis">
+      <h3>Team Insights</h3>
+      <p>
+        <strong>New Zealand Strengths:</strong> Strong batting (Seifert, Robinson), versatile all-rounders (Santner, Neesham), excellent form (5/5 wins).  
+        <strong>Weaknesses:</strong> Middle-order inconsistency, limited venue experience for some players.  
+      </p>
+      <p>
+        <strong>South Africa Strengths:</strong> Solid batting (Hermann, Brevis), strong pace attack (Ngidi, Maphaka), decent form (3/5 wins).  
+        <strong>Weaknesses:</strong> Top-order reliance, inconsistent middle order.
+      </p>
+    </section>
+
+    <section class="read-more">
+      <a href="https://fantasypredictionforfree.com/cricket-news/nz-vs-sa-player-battle-player-stats-playing11-new-zealand-vs-south-africa-pitch-report-sa-vs-nz-final-t20-prediction/07/2025/" target="_blank">
+        Read Full Match Preview
+      </a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Fantasy Match Center | Powered by <a href="https://fantasypredictionforfree.com" target="_blank">Fantasy Prediction For Free</a></p>
+  </footer>
+</body>
+</html>
